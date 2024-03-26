@@ -45,13 +45,12 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">rawa</value>
-    <value name="createdDate">1709719720671</value>
-    <value name="lastModifiedDate">1709719720671</value>
+    <value name="lastModifiedBy">rawa</value>
+    <value name="lastModifiedDate">1711432462939</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">69b10b23dee54a2e8ea0264bb564010a</value>
+      <value name="id">df311bae559140c58ca11bd62575c76b</value>
       <value name="group">default</value>
-      <value name="name">RAHS_ERT_WF32312</value>
+      <value name="name">ERT_FE_RW_25031</value>
       <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">WF32312_Debug_EFS</value>
@@ -74,6 +73,7 @@
         <number name="nodeIndex" type="Long">0</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
     </record>
   </record>
